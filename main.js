@@ -7,6 +7,8 @@
 // Write a JavaScript program to display the current day and time, start with:
 console.log(new Date)
 
+const todaysVariable = [1,2,3]
+
 const displayDate = () => {
   const currentDate = new Date()
 
